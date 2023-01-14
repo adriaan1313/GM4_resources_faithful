@@ -6,4 +6,4 @@ anyways: These are my own work using textures from the GM4 Resources (these and 
 
 The old one was mostly based on [a version of Faithful 32x](https://archive.org/download/le_pack_2.0__extras/le%2Bpack%2B2.0%2B%2B%2Bextras.zip) sent to my by [Hozz](https://github.com/hozz8528). It was a Faithful.team version of Faithful, so I'd like to move away from it, even though I quite prefer the Le Pack 2.0 textures.
 
-Since the Faithful.team version seems like it doesn't do credits, I credit them as "$${\color{red}Evil \space Faithful}$$" in the credits file, these images should be replaced with proper Faithful-based ones.
+Since the Faithful.team version seems like it doesn't do credits, I credit them as  $${\color{darkRed}"Evil \space Faithful"}$$ in the credits file, these images should be replaced with proper Faithful-based ones.
