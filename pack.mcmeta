@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": [
+      "Resource Pack",
+      "\n Faithful for",
+      {
+        "text": "Gamemode 4",
+        "color": "aqua"
+      }
+    ]
+  }
+}
