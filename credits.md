@@ -3,16 +3,16 @@ Note: if there is a file without credits, it is probably the original texture an
 These are all based on the original textures, credits for those can be found in the commit history of the Gamemode4Dev/GM4_Resources repo on gh  
 
 items:  
-[bat_leather.png](assets/gm4/textures/item/bat_grenades/bat_leather.png) *Bunny*  
+[bat_leather.png](assets/gm4/textures/item/bat_grenades/bat_leather.png) *Bunny*, based on original GM4 bat leather texture by Andante
 [enderpuff.png](assets/gm4/textures/item/end_fishing/enderpuff2.png) EVIL FAITHFUL, Bunny  
-[guidebook.png](assets/gm4/textures/item/guidebook/guidebook.png) EVIL FAITHFUL, Bunny  
-[heart_canister_tier_1.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_1.png) *Bunny*  
-[heart_canister_tier_2.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_2.png) *Bunny*  
-[aluminium_band.png](assets/gm4/textures/item/metallurgy/band/aluminium_band.png) *Bunny*  
-[barimium_band.png](assets/gm4/textures/item/metallurgy/band/barimium_band.png) *Bunny*  
-[barium_band.png](assets/gm4/textures/item/metallurgy/band/barium_band.png) *Bunny*  
-*[copper_band.png](assets/gm4/textures/item/metallurgy/band/_copper_band.png)* *Bunny*  
-[thorium_band.png](assets/gm4/textures/item/metallurgy/band/thorium_band.png) *Bunny*  
+[guidebook.png](assets/gm4/textures/item/guidebook/guidebook.png) *Bunny*, based on Faithful book textures by Cituation and Fabri, and original GM4 Guidebook texture by JP (i think)
+[heart_canister_tier_1.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_1.png) *Bunny*, based on original GM4 Heart Canister textures by Hozz  
+[heart_canister_tier_2.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_2.png) *Bunny*, based on original GM4 Heart Canister textures by Hozz  
+[aluminium_band.png](assets/gm4/textures/item/metallurgy/band/aluminium_band.png) *Bunny*, EVIL FAITHFUL  
+[barimium_band.png](assets/gm4/textures/item/metallurgy/band/barimium_band.png) *Bunny*, EVIL FAITHFUL  
+[barium_band.png](assets/gm4/textures/item/metallurgy/band/barium_band.png) *Bunny*, EVIL FAITHFUL  
+*[copper_band.png](assets/gm4/textures/item/metallurgy/band/_copper_band.png)* *Bunny*, EVIL FAITHFUL  
+[thorium_band.png](assets/gm4/textures/item/metallurgy/band/thorium_band.png) *Bunny*, EVIL FAITHFUL  
 *[thorium_brass_band.png](assets/gm4/textures/item/metallurgy/band/_thorium_brass_band.png)* *Bunny*  
 aluminium/[axe.png](assets/gm4/textures/item/metallurgy/shamir/aluminium/axe.png) *Bunny* (made to fit EVIL FAITHFUL though)  
 aluminium/[boots.png](assets/gm4/textures/item/metallurgy/shamir/aluminium/boots.png) *Bunny* (made to fit EVIL FAITHFUL though)  
