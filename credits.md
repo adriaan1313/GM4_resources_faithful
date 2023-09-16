@@ -65,7 +65,9 @@ sky_dimension/[shears_2.png](assets/gm4/textures/item/sky_dimension/shears_2.png
 *[baton.png](assets/gm4/textures/item/_baton.png)* *Bunny*  
 *[charred_shell.png](assets/gm4/textures/item/_charred_shell.png)* EVIL FAITHFUL, Bunny  
 *[lightning_rod.png](assets/gm4/textures/item/_lightning_rod.png)* EVIL FAITHFUL, Bunny  
-  
+[orb_of_ankou.png and orb_of_ankou_overlay.png](assets/gm4/textures/item/orb_of_ankou) *Bunny*, based on original GM4 texture by Hozz, using Faithful Slime Ball by HARYA_, Fred figglehorn and EachMenderKhai texture as reference
+[enchanted_page.png](assets/gm4/textures/item/book_binders/enchanted_page.png) *Bunny*, based on Faithful paper texture by HARYA_ and original GM4 texture by JP
+[everstone.png](assets/gm4/textures/item/everstones/everstone.png) *Bunny*, based on the original GM4 texture by Hozz
   
 entity:  
 [all tnt landmines entities apart from the bottom and non-hidden ones](assets/gm4/textures/entity/tnt_landmines) Bunny, EVIL FAITHFUL  
