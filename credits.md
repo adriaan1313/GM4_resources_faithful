@@ -3,11 +3,11 @@ Note: if there is a file without credits, it is probably the original texture an
 These are all based on the original textures, credits for those can be found in the commit history of the Gamemode4Dev/GM4_Resources repo on gh  
 
 items:  
-[bat_leather.png](assets/gm4/textures/item/bat_grenades/bat_leather.png) *Bunny*, based on original GM4 bat leather texture by Andante
+[bat_leather.png](assets/gm4/textures/item/bat_grenades/bat_leather.png) *Bunny*, based on original GM4 bat leather texture by *Andante*
 [enderpuff.png](assets/gm4/textures/item/end_fishing/enderpuff2.png) EVIL FAITHFUL, Bunny  
-[guidebook.png](assets/gm4/textures/item/guidebook/guidebook.png) *Bunny*, based on Faithful book textures by Cituation and Fabri, and original GM4 Guidebook texture by JP (i think)
-[heart_canister_tier_1.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_1.png) *Bunny*, based on original GM4 Heart Canister textures by Hozz  
-[heart_canister_tier_2.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_2.png) *Bunny*, based on original GM4 Heart Canister textures by Hozz  
+[guidebook.png](assets/gm4/textures/item/guidebook/guidebook.png) *Bunny*, based on Faithful book textures by *Cituation* and *Fabri*, and original GM4 Guidebook texture by *JP* (i think)
+[heart_canister_tier_1.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_1.png) *Bunny*, based on original GM4 Heart Canister textures by *Hozz*
+[heart_canister_tier_2.png](assets/gm4/textures/item/heart_canisters/heart_canister_tier_2.png) *Bunny*, based on original GM4 Heart Canister textures by *Hozz*
 [aluminium_band.png](assets/gm4/textures/item/metallurgy/band/aluminium_band.png) *Bunny*, EVIL FAITHFUL  
 [barimium_band.png](assets/gm4/textures/item/metallurgy/band/barimium_band.png) *Bunny*, EVIL FAITHFUL  
 [barium_band.png](assets/gm4/textures/item/metallurgy/band/barium_band.png) *Bunny*, EVIL FAITHFUL  
@@ -65,9 +65,10 @@ sky_dimension/[shears_2.png](assets/gm4/textures/item/sky_dimension/shears_2.png
 *[baton.png](assets/gm4/textures/item/_baton.png)* *Bunny*  
 *[charred_shell.png](assets/gm4/textures/item/_charred_shell.png)* EVIL FAITHFUL, Bunny  
 *[lightning_rod.png](assets/gm4/textures/item/_lightning_rod.png)* EVIL FAITHFUL, Bunny  
-[orb_of_ankou.png and orb_of_ankou_overlay.png](assets/gm4/textures/item/orb_of_ankou) *Bunny*, based on original GM4 texture by Hozz, using Faithful Slime Ball by HARYA_, Fred figglehorn and EachMenderKhai texture as reference
-[enchanted_page.png](assets/gm4/textures/item/book_binders/enchanted_page.png) *Bunny*, based on Faithful paper texture by HARYA_ and original GM4 texture by JP
-[everstone.png](assets/gm4/textures/item/everstones/everstone.png) *Bunny*, based on the original GM4 texture by Hozz
+[orb_of_ankou.png and orb_of_ankou_overlay.png](assets/gm4/textures/item/orb_of_ankou) *Bunny*, based on original GM4 texture by *Hozz*, using Faithful Slime Ball by HARYA_, Fred figglehorn and EachMenderKhai texture as reference
+[enchanted_page.png](assets/gm4/textures/item/book_binders/enchanted_page.png) *Bunny*, based on Faithful paper texture by *HARYA_* and original GM4 texture by *JP*
+[everstone.png](assets/gm4/textures/item/everstones/everstone.png) *Bunny*, based on the original GM4 texture by *Hozz*
+[charred_arrowhead.png](assets/gm4/textures/item/better_fire/charred_arrowhead.png) *Bunny*, based on the original GM4 texture by *JP*
   
 entity:  
 [all tnt landmines entities apart from the bottom and non-hidden ones](assets/gm4/textures/entity/tnt_landmines) Bunny, EVIL FAITHFUL  
